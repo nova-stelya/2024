@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /ajax/*
+Disallow: /admin/*
+
+Sitemap: /sitemap.xml
